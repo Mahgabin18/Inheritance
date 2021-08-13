@@ -1,3 +1,3 @@
 # Inheritance
 Inheritance of animals
-// this project inheritants from the base classes into derived classes 
+// this project inherits from the base classes into derived classes 

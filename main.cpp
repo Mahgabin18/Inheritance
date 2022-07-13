@@ -13,7 +13,7 @@ int main() {
         cout<<"pet"<<endl; // you have the ability to pet it 
     }
     else{
-        cout<<"leave alone white ppl"<<endl; // else statement does the opposite of the first (idek why it says this...)
+        cout<<"leave alone ppl"<<endl; // else statement does the opposite of the first (idek why it says this...)
     }
     if (bear.isPredator()==true){ //if its a predator, run from it 
         cout<<"RUN"<<endl; //here it is!
